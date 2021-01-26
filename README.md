@@ -32,3 +32,7 @@ Epoch 10/10
 500/500 [==============================] - 10s 20ms/step - loss: 0.2497 - accuracy: 0.9256
 333/333 - 5s - loss: 0.1616 - accuracy: 0.9535
 ```
+
+## License
+This project was made under CS50's Introduction to Artificial Intelligence, a course of study by HarvardX.<br>
+The course is licensed under a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
