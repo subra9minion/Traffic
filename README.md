@@ -5,7 +5,7 @@ An AI that identifies which traffic sign appears in a photograph.
 As research continues in the development of self-driving cars, one of the key challenges is computer vision, allowing these cars to develop an understanding of their environment from digital images. In particular, this involves the ability to recognize and distinguish road signs – stop signs, speed limit signs, yield signs, and more.
 
 ## Approach
-The task is achieved by building a **Neural Network** that classifies road signs using **TensorFlow**. The dataset used is [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/?section=gtsrb&subsection=news).
+The task is achieved by building a **Convolutional Neural Network** that classifies road signs using **TensorFlow**. The dataset used is [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/?section=gtsrb&subsection=news).
 
 ## Sample
 ```
